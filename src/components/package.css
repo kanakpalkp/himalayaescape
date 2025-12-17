@@ -1,0 +1,38 @@
+.card img {
+       height: 221px;
+       border-radius: 10px 10px 0 0;
+}
+
+.card h1 {
+       margin: 0;
+       font-size: 31px;
+       text-transform: capitalize;
+}
+
+.headings>h3 {
+       margin: 0;
+       font-weight: 100;
+       color: gray;
+}
+
+.pricing {
+       display: flex;
+       justify-content: space-between;
+       margin: 10px 0;
+}
+
+.price p {
+       margin: 0;
+       color: gray;
+}
+
+.price h3 {
+       margin: 0;
+       font-size: 1.8rem;
+}
+
+.review p {
+       margin: 0;
+       text-align: end;
+}
+
